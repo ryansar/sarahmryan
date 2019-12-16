@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carol Stamm | Academic</title>
+    <link>/authors/carol-stamm/</link>
+      <atom:link href="/authors/carol-stamm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carol Stamm</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Carol Stamm</title>
+      <link>/authors/carol-stamm/</link>
+    </image>
+    
+    <item>
+      <title>Seeking emergency contraception in the United States. A review of access and barriers</title>
+      <link>/publication/2019-01-01_seeking_emergency_co/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_seeking_emergency_co/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

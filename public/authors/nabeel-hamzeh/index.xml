@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nabeel Hamzeh | Academic</title>
+    <link>/authors/nabeel-hamzeh/</link>
+      <atom:link href="/authors/nabeel-hamzeh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nabeel Hamzeh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Nabeel Hamzeh</title>
+      <link>/authors/nabeel-hamzeh/</link>
+    </image>
+    
+    <item>
+      <title>Radiomic Measures from Chest HRCT Associated with Lung Function in Sarcoidosis</title>
+      <link>/publication/2019-01-01_radiomic_measures_fr/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_radiomic_measures_fr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

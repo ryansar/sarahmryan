@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miranda E Kroehl | Academic</title>
+    <link>/authors/miranda-e-kroehl/</link>
+      <atom:link href="/authors/miranda-e-kroehl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miranda E Kroehl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Miranda E Kroehl</title>
+      <link>/authors/miranda-e-kroehl/</link>
+    </image>
+    
+    <item>
+      <title>Implication of the intestinal microbiome as a potential surrogate marker of immune responsiveness to experimental therapies in autoimmune diabetes</title>
+      <link>/publication/2017-01-01_implication_of_the_i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_implication_of_the_i/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Craig B Clark | Academic</title>
+    <link>/authors/craig-b-clark/</link>
+      <atom:link href="/authors/craig-b-clark/index.xml" rel="self" type="application/rss+xml" />
+    <description>Craig B Clark</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Craig B Clark</title>
+      <link>/authors/craig-b-clark/</link>
+    </image>
+    
+    <item>
+      <title>Correlation of Left Atrial Appendage Ejection Velocities with the CHADS2 and CHA2DS2-VASc Scores</title>
+      <link>/publication/2016-01-01_correlation_of_left_/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_correlation_of_left_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

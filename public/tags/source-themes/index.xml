@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes | Academic</title>
+    <link>/tags/source-themes/</link>
+      <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+    </image>
+    
+    <item>
+      <title>Radiomic Measures from Chest HRCT Associated with Lung Function in Sarcoidosis</title>
+      <link>/publication/2019-01-01_radiomic_measures_fr/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_radiomic_measures_fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Template Creation for High-Resolution Computed Tomography Scans of the Lung in R Software</title>
+      <link>/publication/2019-01-01_template_creation_fo/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_template_creation_fo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/template.jpg&#34; alt=&#34;template creation&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A longitudinal intervention to improve young children?s liking and consumption of new foods. Findings from the Colorado LEAP study</title>
+      <link>/publication/2019-01-01_a_longitudinal_inter/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_a_longitudinal_inter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Child Life Reduces Distress and Pain and Improves Family Satisfaction in the Pediatric Emergency Department</title>
+      <link>/publication/2018-01-01_child_life_reduces_d/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_child_life_reduces_d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing anesthesia use for pediatric magnetic resonance imaging. The effects of a patient-and family-centered intervention on image quality, health-care costs, and operational efficiency</title>
+      <link>/publication/2019-01-01_reducing_anesthesia_/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_reducing_anesthesia_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeking emergency contraception in the United States. A review of access and barriers</title>
+      <link>/publication/2019-01-01_seeking_emergency_co/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_seeking_emergency_co/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation of Left Atrial Appendage Ejection Velocities with the CHADS2 and CHA2DS2-VASc Scores</title>
+      <link>/publication/2016-01-01_correlation_of_left_/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_correlation_of_left_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implication of the intestinal microbiome as a potential surrogate marker of immune responsiveness to experimental therapies in autoimmune diabetes</title>
+      <link>/publication/2017-01-01_implication_of_the_i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_implication_of_the_i/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

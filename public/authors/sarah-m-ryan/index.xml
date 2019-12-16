@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah M Ryan | Academic</title>
+    <link>/authors/sarah-m-ryan/</link>
+      <atom:link href="/authors/sarah-m-ryan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarah M Ryan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Sarah M Ryan</title>
+      <link>/authors/sarah-m-ryan/</link>
+    </image>
+    
+    <item>
+      <title>Correlation of Left Atrial Appendage Ejection Velocities with the CHADS 2 and CHA 2 DS 2-VAS c Scores</title>
+      <link>/publication/2016-01-01_correlation_of_left_/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_correlation_of_left_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
