@@ -97,7 +97,7 @@ address = {street = "13001 E 17th Pl B119", city = "Aurora", region = "CO", post
 coordinates = {latitude = "39.745406", longitude = "-104.837798"}
 
 # Directions for visitors to locate you.
-directions = "Enter Fitzsimons Building. Take the elevater to the 4th Floor. Turn right (west) to get to the Department of Biostatistics. My office is 4157A."
+# directions = "Enter Fitzsimons Building. Take the elevater to the 4th Floor. Turn right (west) to get to the Department of Biostatistics. My office is 4157A."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
