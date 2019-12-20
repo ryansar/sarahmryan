@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | Sarah M. Ryan</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -17,7 +17,7 @@
       <link>/authors/admin/</link>
       <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Sarah M. Ryan is a PhD Candidate in Biostatistics at the Colorado School of Public Health. She also works at National Jewish Health as a research assistant. Her research interests include medical imaging, spatial statistics and machine learning.&lt;/p&gt;
+      <description>&lt;p&gt;I&#39;m a PhD Candidate in Biostatistics at the Colorado School of Public Health at the Anschutz Medical Campus and work as a research assistant for National Jewish Health. I am passionate about working on complex statistical problems that are motivated by public health and biomedical questions. Throughout my academic career, I have been fortunate to be involved with research as both an applied and theoretical statistician. My disciplinary research has largely focused in the development of statistical methodologies and software packages for medical imaging data, specifically computed tomography scans of the lung. In addition to medical imaging, I am also interested in spatial statistics, machine learning and statistical consulting.&lt;/p&gt;
 </description>
     </item>
     

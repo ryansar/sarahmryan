@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include medical imaging, spatial statistics and machine learning.
+bio:
 education:
   courses:
   - course: PhD in Biostatistics
@@ -39,4 +39,4 @@ user_groups:
 - Visitors
 ---
 
-Sarah M. Ryan is a PhD Candidate in Biostatistics at the Colorado School of Public Health. She also works at National Jewish Health as a research assistant. Her research interests include medical imaging, spatial statistics and machine learning.
+I'm a PhD Candidate in Biostatistics at the Colorado School of Public Health at the Anschutz Medical Campus and work as a research assistant for National Jewish Health. I am passionate about working on complex statistical problems that are motivated by public health and biomedical questions. Throughout my academic career, I have been fortunate to be involved with research as both an applied and theoretical statistician. My disciplinary research has largely focused in the development of statistical methodologies and software packages for medical imaging data, specifically computed tomography scans of the lung. In addition to medical imaging, I am also interested in spatial statistics, machine learning and statistical consulting.   
