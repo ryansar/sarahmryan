@@ -24,7 +24,7 @@ slides: ""
 summary: ""
 tags:
 - Source Themes
-title: A longitudinal intervention to improve young children?s liking and consumption of new foods. Findings from the Colorado LEAP study
+title: A longitudinal intervention to improve young children's liking and consumption of new foods. Findings from the Colorado LEAP study
 url_code: ""
 url_dataset: ""
 url_pdf: ""
