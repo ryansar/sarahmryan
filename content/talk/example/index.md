@@ -8,10 +8,10 @@ address:
   street: 13120 E 19th Ave
 all_day: false
 authors: []
-date: "2020-02-18T15:00:00Z"
-date_end: "2020-02-18T16:30:00Z"
-event: Big Data Seminar Series - OMICS Data
-event_url: http://www.ucdenver.edu/academics/colleges/PublicHealth/research/centers/CBC/resources/Pages/Big-Data-Seminar-Series.aspx
+date: "2020-07-13T13:00:00Z"
+date_end: "2020-07-13T14:00:00Z"
+event: Dissertation Defense
+event_url:
 featured: false
 image:
   caption: ''
@@ -27,9 +27,9 @@ math: true
 # - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides: ""
-summary: This presentation will focus on the analysis of medical imaging. The format will be a mix of short presentations (10 to 15 minutes each) followed by a panel discussion and Q/A.
+summary: This presentation will focus on the statistical analyses of computed tomography scans of the lung
 tags: []
-title: Medical Imaging - What, Why, How?
+title: Dissertation Defense
 url_code: ""
 url_pdf: ""
 url_slides: ""
