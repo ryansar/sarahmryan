@@ -7,7 +7,7 @@
 library(blogdown)
 
 # Create site
-new_site(theme = "gcushen/hugo-academic")
+# new_site(theme = "gcushen/hugo-academic")
 
 # Load (already created) site
 serve_site()

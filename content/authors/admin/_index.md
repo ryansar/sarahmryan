@@ -22,7 +22,7 @@ name: Sarah M. Ryan
 organizations:
 - name: University of Pennsylvania
   url: ""
-role: Instructor at PennSIVE
+role: Instructor of Biostatistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,4 +39,4 @@ user_groups:
 - Visitors
 ---
 
-I am an instructor of biostatistics at the Penn Statistics in Imaging and Visualization Endeavor (PennSIVE) within the Center for Clinical Epidemiology and Biostatistics at the Perelman School of Medicine at the University of Pennsylvania. I graduated with a PhD in biostatistics at the Colorado School of Public Health at the Anschutz Medical Campus, where I also worked as a research assistant for National Jewish Health. I am passionate about working on complex statistical problems that are motivated by public health and biomedical questions. My disciplinary research is largely focused in the development of statistical methodologies and software packages for medical imaging data, specifically computed tomography scans of the lung. In addition to medical imaging, I am also interested in spatial statistics, machine learning and statistical consulting.   
+I am an instructor of biostatistics at the Penn Statistics in Imaging and Visualization Endeavor (PennSIVE) within the Center for Clinical Epidemiology and Biostatistics at the Perelman School of Medicine at the University of Pennsylvania. Previously, I was a graduate student in biostatistics at the Colorado School of Public Health at the Anschutz Medical Campus, where I received my PhD in August of 2020. My disciplinary research is largely focused in the development of statistical methodologies and software packages for medical imaging data, specifically computed tomography scans of the lungs. Outside of research, I enjoy spending time with my family and friends, and various activities, including hiking, skiing, volleyball and ping pong.  
